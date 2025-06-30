@@ -1,4 +1,4 @@
 # apnacollage
 this my first repository 
 <br>
-Authar - Akash bhaiya
+Authar - Akash bhaiya (coder)
